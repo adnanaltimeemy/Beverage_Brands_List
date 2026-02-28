@@ -1,0 +1,11 @@
+Customer_ID,Age,Gender,Country,Purchase_Amount_USD,Product_Category,Purchase_Date
+1001,25,Female,USA,120.50,Shoes,2025-01-15
+1002,34,Male,UK,89.99,Apparel,2025-01-18
+1003,29,Female,Argentina,150.00,Shoes,2025-01-20
+1004,45,Male,Canada,200.75,Accessories,2025-01-22
+1005,52,Female,USA,175.20,Apparel,2025-01-25
+1006,31,Male,Germany,95.00,Shoes,2025-01-28
+1007,27,Female,France,130.40,Accessories,2025-02-01
+1008,40,Male,Argentina,220.10,Shoes,2025-02-05
+1009,36,Female,Spain,160.00,Apparel,2025-02-10
+1010,48,Male,USA,185.60,Accessories,2025-02-15
