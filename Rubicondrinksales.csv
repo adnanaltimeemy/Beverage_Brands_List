@@ -1,0 +1,36 @@
+import csv
+
+# Data to write
+data = [
+    ["Date", "Region", "Drink_Flavour", "Units_Sold", "Unit_Price (£)"],
+    ["2025-01-01", "London", "Mango", 120, 1.20],
+    ["2025-01-02", "Manchester", "Guava", 95, 1.10],
+    ["2025-01-03", "Birmingham", "Passion Fruit", 110, 1.30],
+    ["2025-01-04", "London", "Mango", 150, 1.20],
+    ["2025-01-05", "Manchester", "Guava", 105, 1.10],
+    ["2025-01-06", "Birmingham", "Passion Fruit", 130, 1.30],
+]
+
+# Write CSV file
+with open("Rubicondrinksales.csv", mode="w", newline="") as file:
+    writer = csv.writer(file)
+    writer.writerows(data)
+
+print("Rubicondrinksales.csv has been created successfully.")
+import csv
+
+with open("Rubicondrinksales.csv", "w", newline="") as file:
+    writer = csv.writer(file)
+
+    # Header
+    writer.writerow(["Date", "Region", "Drink_Flavour", "Units_Sold", "Unit_Price"])
+
+    # Rows
+    writer.writerow(["2025-01-01", "London", "Mango", 120, 1.20])
+    writer.writerow(["2025-01-02", "Manchester", "Guava", 95, 1.10])
+    writer.writerow(["2025-01-03", "Birmingham", "Passion Fruit", 110, 1.30])
+    writer.writerow(["2025-01-04", "London", "Mango", 150, 1.20])
+    writer.writerow(["2025-01-05", "Manchester", "Guava", 105, 1.10])
+    writer.writerow(["2025-01-06", "Birmingham", "Passion Fruit", 130, 1.30])
+
+print("File created successfully.")
