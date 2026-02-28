@@ -1,0 +1,501 @@
+store_id,region,month,units_sold,price_pence,cost_pence,notes,revenue_pence,cost_total_pence,profit_margin,margin_band,month_num,season
+S039,West,2024-10-01,452,70,40,Low stock due to delivery delay,31640,18080,0.42857142857142855,High,10,Autumn
+S029,North,2024-04-01,524,75,45,Weather affected sales negatively,39300,23580,0.4,High,4,Spring
+S015,East,2023-08-01,339,60,30,High demand after advertisement,20340,10170,0.5,High,8,Summer
+S043,West,2023-04-01,384,75,35,Low stock due to delivery delay,28800,13440,0.5333333333333333,High,4,Spring
+S008,North,2023-08-01,348,60,30,Great promotion with local event,20880,10440,0.5,High,8,Summer
+S021,South,2023-04-01,283,60,30,Great promotion with local event,16980,8490,0.5,High,4,Spring
+S039,South,2024-12-01,447,70,35,Competition price drop nearby,31290,15645,0.5,High,12,Winter
+S019,North,2023-03-01,455,75,45,Weather affected sales negatively,34125,20475,0.4,High,3,Spring
+S023,East,2023-03-01,310,70,40,Competition price drop nearby,21700,12400,0.42857142857142855,High,3,Spring
+S011,South,2024-06-01,396,60,45,Competition price drop nearby,23760,17820,0.25,Moderate,6,Summer
+S011,South,2024-07-01,406,65,45,New flavor launch drove interest,26390,18270,0.3076923076923077,High,7,Summer
+S024,South,2024-07-01,455,75,30,Competition price drop nearby,34125,13650,0.6,High,7,Summer
+S036,North,2024-09-01,493,65,40,New flavor launch drove interest,32045,19720,0.38461538461538464,High,9,Autumn
+S040,West,2023-05-01,451,75,40,Great promotion with local event,33825,18040,0.4666666666666667,High,5,Spring
+S024,South,2024-06-01,478,70,45,Great promotion with local event,33460,21510,0.35714285714285715,High,6,Summer
+S003,West,2023-10-01,346,70,35,Competition price drop nearby,24220,12110,0.5,High,10,Autumn
+S022,East,2024-10-01,311,70,45,Great promotion with local event,21770,13995,0.35714285714285715,High,10,Autumn
+S002,South,2024-09-01,292,70,35,Weather affected sales negatively,20440,10220,0.5,High,9,Autumn
+S024,South,2023-06-01,344,70,40,New flavor launch drove interest,24080,13760,0.42857142857142855,High,6,Summer
+S044,East,2023-01-01,293,65,45,New flavor launch drove interest,19045,13185,0.3076923076923077,High,1,Winter
+S030,South,2023-05-01,440,70,30,Competition price drop nearby,30800,13200,0.5714285714285714,High,5,Spring
+S038,West,2023-09-01,351,60,45,Great promotion with local event,21060,15795,0.25,Moderate,9,Autumn
+S002,North,2023-12-01,466,60,40,Low stock due to delivery delay,27960,18640,0.3333333333333333,High,12,Winter
+S021,West,2024-02-01,392,65,30,New flavor launch drove interest,25480,11760,0.5384615384615384,High,2,Winter
+S033,North,2023-02-01,383,75,30,Competition price drop nearby,28725,11490,0.6,High,2,Winter
+S012,North,2024-05-01,359,60,35,Competition price drop nearby,21540,12565,0.4166666666666667,High,5,Spring
+S022,West,2024-02-01,436,75,30,Weather affected sales negatively,32700,13080,0.6,High,2,Winter
+S044,West,2024-01-01,337,65,30,High demand after advertisement,21905,10110,0.5384615384615384,High,1,Winter
+S025,West,2023-09-01,417,75,45,High demand after advertisement,31275,18765,0.4,High,9,Autumn
+S049,West,2024-03-01,487,75,40,New flavor launch drove interest,36525,19480,0.4666666666666667,High,3,Spring
+S027,East,2024-10-01,413,75,35,Weather affected sales negatively,30975,14455,0.5333333333333333,High,10,Autumn
+S042,South,2024-03-01,327,75,45,Weather affected sales negatively,24525,14715,0.4,High,3,Spring
+S028,North,2024-12-01,375,65,30,Weather affected sales negatively,24375,11250,0.5384615384615384,High,12,Winter
+S016,West,2023-11-01,485,60,30,New flavor launch drove interest,29100,14550,0.5,High,11,Autumn
+S015,West,2024-04-01,304,70,35,High demand after advertisement,21280,10640,0.5,High,4,Spring
+S047,West,2024-05-01,458,75,40,Weather affected sales negatively,34350,18320,0.4666666666666667,High,5,Spring
+S044,East,2023-04-01,345,60,35,Great promotion with local event,20700,12075,0.4166666666666667,High,4,Spring
+S003,West,2023-01-01,361,60,45,Competition price drop nearby,21660,16245,0.25,Moderate,1,Winter
+S037,West,2023-08-01,453,65,35,Competition price drop nearby,29445,15855,0.46153846153846156,High,8,Summer
+S007,West,2024-05-01,425,60,30,Low stock due to delivery delay,25500,12750,0.5,High,5,Spring
+S021,South,2023-03-01,312,65,45,Low stock due to delivery delay,20280,14040,0.3076923076923077,High,3,Spring
+S009,East,2024-08-01,313,75,30,New flavor launch drove interest,23475,9390,0.6,High,8,Summer
+S039,West,2024-03-01,450,75,40,New flavor launch drove interest,33750,18000,0.4666666666666667,High,3,Spring
+S018,North,2024-03-01,388,70,30,Competition price drop nearby,27160,11640,0.5714285714285714,High,3,Spring
+S004,North,2024-12-01,368,70,30,Great promotion with local event,25760,11040,0.5714285714285714,High,12,Winter
+S025,North,2024-10-01,470,70,35,High demand after advertisement,32900,16450,0.5,High,10,Autumn
+S014,East,2024-02-01,465,60,30,High demand after advertisement,27900,13950,0.5,High,2,Winter
+S050,East,2024-11-01,329,75,45,New flavor launch drove interest,24675,14805,0.4,High,11,Autumn
+S009,North,2024-02-01,391,65,45,Great promotion with local event,25415,17595,0.3076923076923077,High,2,Winter
+S026,West,2024-12-01,444,70,40,New flavor launch drove interest,31080,17760,0.42857142857142855,High,12,Winter
+S002,East,2023-02-01,392,65,45,High demand after advertisement,25480,17640,0.3076923076923077,High,2,Winter
+S020,North,2024-01-01,467,65,35,New flavor launch drove interest,30355,16345,0.46153846153846156,High,1,Winter
+S028,North,2024-02-01,372,70,40,Weather affected sales negatively,26040,14880,0.42857142857142855,High,2,Winter
+S047,West,2024-12-01,402,75,45,New flavor launch drove interest,30150,18090,0.4,High,12,Winter
+S007,South,2024-07-01,294,70,35,Competition price drop nearby,20580,10290,0.5,High,7,Summer
+S044,East,2023-07-01,521,65,45,New flavor launch drove interest,33865,23445,0.3076923076923077,High,7,Summer
+S008,West,2023-03-01,395,70,45,Competition price drop nearby,27650,17775,0.35714285714285715,High,3,Spring
+S047,North,2024-03-01,340,65,30,Great promotion with local event,22100,10200,0.5384615384615384,High,3,Spring
+S035,North,2024-11-01,354,65,45,High demand after advertisement,23010,15930,0.3076923076923077,High,11,Autumn
+S014,West,2024-02-01,471,70,45,Low stock due to delivery delay,32970,21195,0.35714285714285715,High,2,Winter
+S017,East,2023-11-01,325,60,35,Low stock due to delivery delay,19500,11375,0.4166666666666667,High,11,Autumn
+S036,South,2024-03-01,437,70,35,High demand after advertisement,30590,15295,0.5,High,3,Spring
+S050,South,2024-01-01,359,60,30,Low stock due to delivery delay,21540,10770,0.5,High,1,Winter
+S040,North,2024-06-01,414,65,45,New flavor launch drove interest,26910,18630,0.3076923076923077,High,6,Summer
+S004,East,2023-06-01,301,65,30,Great promotion with local event,19565,9030,0.5384615384615384,High,6,Summer
+S002,South,2023-03-01,421,60,45,Great promotion with local event,25260,18945,0.25,Moderate,3,Spring
+S006,East,2024-07-01,351,65,40,High demand after advertisement,22815,14040,0.38461538461538464,High,7,Summer
+S042,East,2024-03-01,365,60,40,Low stock due to delivery delay,21900,14600,0.3333333333333333,High,3,Spring
+S004,North,2024-11-01,412,60,30,New flavor launch drove interest,24720,12360,0.5,High,11,Autumn
+S029,South,2023-05-01,336,65,30,Great promotion with local event,21840,10080,0.5384615384615384,High,5,Spring
+S018,West,2023-10-01,453,75,30,Great promotion with local event,33975,13590,0.6,High,10,Autumn
+S026,North,2023-07-01,349,60,35,Weather affected sales negatively,20940,12215,0.4166666666666667,High,7,Summer
+S044,South,2024-05-01,467,70,35,Weather affected sales negatively,32690,16345,0.5,High,5,Spring
+S034,South,2023-07-01,339,70,35,Great promotion with local event,23730,11865,0.5,High,7,Summer
+S010,South,2024-10-01,460,65,30,High demand after advertisement,29900,13800,0.5384615384615384,High,10,Autumn
+S036,South,2023-12-01,386,75,45,Competition price drop nearby,28950,17370,0.4,High,12,Winter
+S014,South,2024-05-01,343,65,40,Competition price drop nearby,22295,13720,0.38461538461538464,High,5,Spring
+S031,East,2024-01-01,442,75,30,New flavor launch drove interest,33150,13260,0.6,High,1,Winter
+S048,North,2024-08-01,321,60,35,Great promotion with local event,19260,11235,0.4166666666666667,High,8,Summer
+S015,East,2023-04-01,378,60,35,Great promotion with local event,22680,13230,0.4166666666666667,High,4,Spring
+S008,West,2023-10-01,342,60,30,Great promotion with local event,20520,10260,0.5,High,10,Autumn
+S014,South,2023-03-01,415,60,30,High demand after advertisement,24900,12450,0.5,High,3,Spring
+S023,North,2023-09-01,401,70,35,Weather affected sales negatively,28070,14035,0.5,High,9,Autumn
+S040,South,2024-01-01,467,70,45,Great promotion with local event,32690,21015,0.35714285714285715,High,1,Winter
+S021,North,2024-06-01,312,65,35,Great promotion with local event,20280,10920,0.46153846153846156,High,6,Summer
+S016,East,2024-03-01,469,75,35,Low stock due to delivery delay,35175,16415,0.5333333333333333,High,3,Spring
+S045,North,2023-04-01,469,60,30,High demand after advertisement,28140,14070,0.5,High,4,Spring
+S018,West,2024-03-01,424,60,45,New flavor launch drove interest,25440,19080,0.25,Moderate,3,Spring
+S047,West,2024-10-01,419,75,35,Great promotion with local event,31425,14665,0.5333333333333333,High,10,Autumn
+S024,North,2023-02-01,444,75,35,Low stock due to delivery delay,33300,15540,0.5333333333333333,High,2,Winter
+S026,North,2024-03-01,458,65,40,Competition price drop nearby,29770,18320,0.38461538461538464,High,3,Spring
+S025,North,2023-08-01,317,75,30,New flavor launch drove interest,23775,9510,0.6,High,8,Summer
+S045,North,2023-08-01,436,60,40,Great promotion with local event,26160,17440,0.3333333333333333,High,8,Summer
+S041,West,2024-05-01,476,60,40,Great promotion with local event,28560,19040,0.3333333333333333,High,5,Spring
+S029,South,2023-12-01,451,60,35,Low stock due to delivery delay,27060,15785,0.4166666666666667,High,12,Winter
+S015,North,2024-07-01,368,60,30,High demand after advertisement,22080,11040,0.5,High,7,Summer
+S045,North,2023-10-01,459,60,45,Great promotion with local event,27540,20655,0.25,Moderate,10,Autumn
+S001,West,2023-09-01,436,65,35,Competition price drop nearby,28340,15260,0.46153846153846156,High,9,Autumn
+S025,West,2023-05-01,449,60,45,Great promotion with local event,26940,20205,0.25,Moderate,5,Spring
+S007,East,2023-06-01,503,65,45,Competition price drop nearby,32695,22635,0.3076923076923077,High,6,Summer
+S009,North,2024-08-01,480,60,30,New flavor launch drove interest,28800,14400,0.5,High,8,Summer
+S024,East,2023-02-01,387,70,40,New flavor launch drove interest,27090,15480,0.42857142857142855,High,2,Winter
+S001,West,2024-12-01,430,70,30,Weather affected sales negatively,30100,12900,0.5714285714285714,High,12,Winter
+S044,West,2024-01-01,448,70,45,Weather affected sales negatively,31360,20160,0.35714285714285715,High,1,Winter
+S008,South,2023-06-01,367,70,35,Competition price drop nearby,25690,12845,0.5,High,6,Summer
+S024,North,2023-05-01,309,65,45,High demand after advertisement,20085,13905,0.3076923076923077,High,5,Spring
+S011,East,2023-01-01,339,65,35,Great promotion with local event,22035,11865,0.46153846153846156,High,1,Winter
+S017,West,2024-09-01,462,75,35,Great promotion with local event,34650,16170,0.5333333333333333,High,9,Autumn
+S008,West,2024-10-01,496,60,30,Weather affected sales negatively,29760,14880,0.5,High,10,Autumn
+S035,East,2024-09-01,475,70,45,Competition price drop nearby,33250,21375,0.35714285714285715,High,9,Autumn
+S035,South,2023-06-01,476,65,40,Great promotion with local event,30940,19040,0.38461538461538464,High,6,Summer
+S033,West,2023-06-01,526,60,45,Great promotion with local event,31560,23670,0.25,Moderate,6,Summer
+S005,North,2024-11-01,340,60,45,High demand after advertisement,20400,15300,0.25,Moderate,11,Autumn
+S042,West,2024-04-01,314,65,40,Low stock due to delivery delay,20410,12560,0.38461538461538464,High,4,Spring
+S039,North,2023-04-01,360,70,30,Weather affected sales negatively,25200,10800,0.5714285714285714,High,4,Spring
+S041,East,2023-11-01,464,75,45,Weather affected sales negatively,34800,20880,0.4,High,11,Autumn
+S028,North,2024-12-01,348,60,45,Low stock due to delivery delay,20880,15660,0.25,Moderate,12,Winter
+S007,East,2024-11-01,349,75,35,Great promotion with local event,26175,12215,0.5333333333333333,High,11,Autumn
+S009,North,2023-09-01,387,70,45,High demand after advertisement,27090,17415,0.35714285714285715,High,9,Autumn
+S008,East,2024-11-01,498,70,40,High demand after advertisement,34860,19920,0.42857142857142855,High,11,Autumn
+S012,North,2023-03-01,321,75,35,Weather affected sales negatively,24075,11235,0.5333333333333333,High,3,Spring
+S034,South,2024-07-01,484,70,30,High demand after advertisement,33880,14520,0.5714285714285714,High,7,Summer
+S033,North,2023-08-01,423,60,35,New flavor launch drove interest,25380,14805,0.4166666666666667,High,8,Summer
+S048,North,2023-05-01,430,75,40,Low stock due to delivery delay,32250,17200,0.4666666666666667,High,5,Spring
+S023,South,2023-04-01,326,70,40,Great promotion with local event,22820,13040,0.42857142857142855,High,4,Spring
+S024,West,2024-12-01,339,75,35,New flavor launch drove interest,25425,11865,0.5333333333333333,High,12,Winter
+S037,West,2023-06-01,415,60,30,Low stock due to delivery delay,24900,12450,0.5,High,6,Summer
+S035,North,2023-02-01,477,70,35,Competition price drop nearby,33390,16695,0.5,High,2,Winter
+S044,South,2024-08-01,390,60,30,Weather affected sales negatively,23400,11700,0.5,High,8,Summer
+S040,North,2023-11-01,310,70,35,High demand after advertisement,21700,10850,0.5,High,11,Autumn
+S022,East,2023-04-01,385,65,40,Competition price drop nearby,25025,15400,0.38461538461538464,High,4,Spring
+S027,East,2024-03-01,487,70,45,High demand after advertisement,34090,21915,0.35714285714285715,High,3,Spring
+S035,North,2023-06-01,316,75,45,New flavor launch drove interest,23700,14220,0.4,High,6,Summer
+S001,West,2024-10-01,432,70,30,Great promotion with local event,30240,12960,0.5714285714285714,High,10,Autumn
+S035,West,2024-05-01,337,60,30,Great promotion with local event,20220,10110,0.5,High,5,Spring
+S037,North,2024-12-01,513,60,30,Great promotion with local event,30780,15390,0.5,High,12,Winter
+S047,North,2023-06-01,387,70,40,High demand after advertisement,27090,15480,0.42857142857142855,High,6,Summer
+S014,East,2024-07-01,482,75,35,Competition price drop nearby,36150,16870,0.5333333333333333,High,7,Summer
+S003,West,2023-02-01,469,65,40,Great promotion with local event,30485,18760,0.38461538461538464,High,2,Winter
+S001,North,2024-03-01,324,75,45,Competition price drop nearby,24300,14580,0.4,High,3,Spring
+S005,East,2023-11-01,496,65,30,High demand after advertisement,32240,14880,0.5384615384615384,High,11,Autumn
+S026,West,2023-08-01,513,60,35,New flavor launch drove interest,30780,17955,0.4166666666666667,High,8,Summer
+S014,South,2024-07-01,423,75,45,Competition price drop nearby,31725,19035,0.4,High,7,Summer
+S039,East,2024-01-01,432,65,45,New flavor launch drove interest,28080,19440,0.3076923076923077,High,1,Winter
+S027,West,2023-12-01,283,70,45,High demand after advertisement,19810,12735,0.35714285714285715,High,12,Winter
+S009,West,2023-05-01,465,60,40,High demand after advertisement,27900,18600,0.3333333333333333,High,5,Spring
+S015,East,2023-06-01,374,70,30,Weather affected sales negatively,26180,11220,0.5714285714285714,High,6,Summer
+S015,South,2024-10-01,417,60,45,High demand after advertisement,25020,18765,0.25,Moderate,10,Autumn
+S026,East,2023-04-01,485,75,30,High demand after advertisement,36375,14550,0.6,High,4,Spring
+S042,West,2024-07-01,371,75,40,Low stock due to delivery delay,27825,14840,0.4666666666666667,High,7,Summer
+S013,North,2024-08-01,313,60,45,Great promotion with local event,18780,14085,0.25,Moderate,8,Summer
+S032,North,2023-01-01,500,60,40,Weather affected sales negatively,30000,20000,0.3333333333333333,High,1,Winter
+S039,East,2024-08-01,451,60,40,Weather affected sales negatively,27060,18040,0.3333333333333333,High,8,Summer
+S049,West,2024-05-01,325,75,30,Weather affected sales negatively,24375,9750,0.6,High,5,Spring
+S032,North,2023-12-01,343,65,45,Low stock due to delivery delay,22295,15435,0.3076923076923077,High,12,Winter
+S004,West,2024-03-01,445,70,40,New flavor launch drove interest,31150,17800,0.42857142857142855,High,3,Spring
+S030,East,2023-01-01,481,70,45,High demand after advertisement,33670,21645,0.35714285714285715,High,1,Winter
+S037,North,2024-02-01,292,75,30,Great promotion with local event,21900,8760,0.6,High,2,Winter
+S023,West,2023-06-01,305,70,40,Competition price drop nearby,21350,12200,0.42857142857142855,High,6,Summer
+S039,North,2023-05-01,411,60,30,New flavor launch drove interest,24660,12330,0.5,High,5,Spring
+S045,East,2023-11-01,483,65,45,High demand after advertisement,31395,21735,0.3076923076923077,High,11,Autumn
+S015,West,2023-04-01,362,70,45,Low stock due to delivery delay,25340,16290,0.35714285714285715,High,4,Spring
+S043,North,2024-01-01,422,65,30,High demand after advertisement,27430,12660,0.5384615384615384,High,1,Winter
+S029,East,2023-11-01,451,60,35,High demand after advertisement,27060,15785,0.4166666666666667,High,11,Autumn
+S036,North,2023-03-01,300,70,40,Low stock due to delivery delay,21000,12000,0.42857142857142855,High,3,Spring
+S013,North,2023-01-01,447,75,45,Weather affected sales negatively,33525,20115,0.4,High,1,Winter
+S032,South,2023-06-01,409,65,45,Weather affected sales negatively,26585,18405,0.3076923076923077,High,6,Summer
+S007,South,2024-06-01,368,60,40,Great promotion with local event,22080,14720,0.3333333333333333,High,6,Summer
+S022,East,2024-12-01,384,65,30,Great promotion with local event,24960,11520,0.5384615384615384,High,12,Winter
+S028,South,2023-10-01,435,70,30,Weather affected sales negatively,30450,13050,0.5714285714285714,High,10,Autumn
+S002,East,2023-05-01,448,70,30,New flavor launch drove interest,31360,13440,0.5714285714285714,High,5,Spring
+S042,South,2024-11-01,487,75,35,Competition price drop nearby,36525,17045,0.5333333333333333,High,11,Autumn
+S045,North,2023-10-01,360,60,35,High demand after advertisement,21600,12600,0.4166666666666667,High,10,Autumn
+S006,East,2023-12-01,383,60,45,Competition price drop nearby,22980,17235,0.25,Moderate,12,Winter
+S028,East,2023-02-01,442,75,30,High demand after advertisement,33150,13260,0.6,High,2,Winter
+S028,North,2024-01-01,327,75,40,Weather affected sales negatively,24525,13080,0.4666666666666667,High,1,Winter
+S044,East,2023-08-01,345,60,45,Great promotion with local event,20700,15525,0.25,Moderate,8,Summer
+S044,East,2023-02-01,444,65,40,New flavor launch drove interest,28860,17760,0.38461538461538464,High,2,Winter
+S020,South,2024-08-01,382,65,45,Great promotion with local event,24830,17190,0.3076923076923077,High,8,Summer
+S030,East,2023-01-01,339,75,35,Competition price drop nearby,25425,11865,0.5333333333333333,High,1,Winter
+S011,West,2023-05-01,476,65,45,Great promotion with local event,30940,21420,0.3076923076923077,High,5,Spring
+S028,North,2023-09-01,356,60,35,Weather affected sales negatively,21360,12460,0.4166666666666667,High,9,Autumn
+S025,South,2024-05-01,459,70,45,New flavor launch drove interest,32130,20655,0.35714285714285715,High,5,Spring
+S039,South,2023-09-01,321,70,30,Competition price drop nearby,22470,9630,0.5714285714285714,High,9,Autumn
+S033,West,2023-11-01,399,65,40,New flavor launch drove interest,25935,15960,0.38461538461538464,High,11,Autumn
+S001,North,2024-03-01,380,75,30,High demand after advertisement,28500,11400,0.6,High,3,Spring
+S027,North,2024-12-01,411,75,45,Great promotion with local event,30825,18495,0.4,High,12,Winter
+S013,South,2023-06-01,350,75,45,New flavor launch drove interest,26250,15750,0.4,High,6,Summer
+S041,East,2024-11-01,455,75,45,Low stock due to delivery delay,34125,20475,0.4,High,11,Autumn
+S003,South,2023-03-01,415,75,35,Great promotion with local event,31125,14525,0.5333333333333333,High,3,Spring
+S039,North,2024-05-01,319,65,40,High demand after advertisement,20735,12760,0.38461538461538464,High,5,Spring
+S006,West,2023-05-01,465,70,40,New flavor launch drove interest,32550,18600,0.42857142857142855,High,5,Spring
+S008,South,2023-12-01,412,70,45,Competition price drop nearby,28840,18540,0.35714285714285715,High,12,Winter
+S027,North,2024-06-01,431,65,45,High demand after advertisement,28015,19395,0.3076923076923077,High,6,Summer
+S009,South,2024-02-01,496,75,35,Low stock due to delivery delay,37200,17360,0.5333333333333333,High,2,Winter
+S037,East,2024-09-01,368,65,30,New flavor launch drove interest,23920,11040,0.5384615384615384,High,9,Autumn
+S033,South,2024-12-01,406,70,30,Weather affected sales negatively,28420,12180,0.5714285714285714,High,12,Winter
+S042,South,2023-11-01,471,60,40,Great promotion with local event,28260,18840,0.3333333333333333,High,11,Autumn
+S044,North,2023-09-01,411,65,35,Competition price drop nearby,26715,14385,0.46153846153846156,High,9,Autumn
+S024,North,2023-02-01,477,75,45,Weather affected sales negatively,35775,21465,0.4,High,2,Winter
+S015,North,2023-12-01,333,70,40,New flavor launch drove interest,23310,13320,0.42857142857142855,High,12,Winter
+S032,South,2023-03-01,313,70,35,New flavor launch drove interest,21910,10955,0.5,High,3,Spring
+S032,East,2023-03-01,453,70,30,High demand after advertisement,31710,13590,0.5714285714285714,High,3,Spring
+S024,West,2023-01-01,362,70,35,New flavor launch drove interest,25340,12670,0.5,High,1,Winter
+S041,West,2023-08-01,358,75,30,Competition price drop nearby,26850,10740,0.6,High,8,Summer
+S049,North,2024-10-01,378,60,35,Weather affected sales negatively,22680,13230,0.4166666666666667,High,10,Autumn
+S049,North,2023-08-01,404,70,40,Competition price drop nearby,28280,16160,0.42857142857142855,High,8,Summer
+S012,South,2023-11-01,426,65,30,Low stock due to delivery delay,27690,12780,0.5384615384615384,High,11,Autumn
+S039,West,2023-09-01,440,60,40,Low stock due to delivery delay,26400,17600,0.3333333333333333,High,9,Autumn
+S002,North,2023-05-01,322,70,40,Great promotion with local event,22540,12880,0.42857142857142855,High,5,Spring
+S003,East,2024-02-01,458,60,30,Great promotion with local event,27480,13740,0.5,High,2,Winter
+S049,East,2023-03-01,429,65,30,Low stock due to delivery delay,27885,12870,0.5384615384615384,High,3,Spring
+S037,North,2024-09-01,420,70,45,New flavor launch drove interest,29400,18900,0.35714285714285715,High,9,Autumn
+S049,North,2023-05-01,420,65,45,Competition price drop nearby,27300,18900,0.3076923076923077,High,5,Spring
+S017,West,2023-05-01,478,75,45,Low stock due to delivery delay,35850,21510,0.4,High,5,Spring
+S049,West,2024-07-01,350,70,40,Great promotion with local event,24500,14000,0.42857142857142855,High,7,Summer
+S002,South,2024-02-01,419,70,40,Low stock due to delivery delay,29330,16760,0.42857142857142855,High,2,Winter
+S002,West,2023-04-01,474,70,45,New flavor launch drove interest,33180,21330,0.35714285714285715,High,4,Spring
+S028,East,2024-01-01,327,70,40,Low stock due to delivery delay,22890,13080,0.42857142857142855,High,1,Winter
+S023,East,2023-10-01,307,75,40,Competition price drop nearby,23025,12280,0.4666666666666667,High,10,Autumn
+S037,North,2024-06-01,341,70,30,Weather affected sales negatively,23870,10230,0.5714285714285714,High,6,Summer
+S032,West,2023-08-01,450,60,30,New flavor launch drove interest,27000,13500,0.5,High,8,Summer
+S033,South,2023-08-01,402,70,40,Great promotion with local event,28140,16080,0.42857142857142855,High,8,Summer
+S001,East,2023-07-01,405,75,45,Competition price drop nearby,30375,18225,0.4,High,7,Summer
+S019,East,2023-08-01,397,70,35,Low stock due to delivery delay,27790,13895,0.5,High,8,Summer
+S002,South,2024-02-01,463,60,45,Low stock due to delivery delay,27780,20835,0.25,Moderate,2,Winter
+S044,South,2024-07-01,362,75,35,Weather affected sales negatively,27150,12670,0.5333333333333333,High,7,Summer
+S026,East,2023-06-01,523,75,45,Great promotion with local event,39225,23535,0.4,High,6,Summer
+S032,East,2023-01-01,377,60,30,Great promotion with local event,22620,11310,0.5,High,1,Winter
+S006,South,2024-11-01,362,60,40,High demand after advertisement,21720,14480,0.3333333333333333,High,11,Autumn
+S032,East,2024-03-01,505,60,40,Great promotion with local event,30300,20200,0.3333333333333333,High,3,Spring
+S004,North,2023-01-01,351,60,30,Weather affected sales negatively,21060,10530,0.5,High,1,Winter
+S011,North,2024-05-01,302,60,35,High demand after advertisement,18120,10570,0.4166666666666667,High,5,Spring
+S017,South,2023-01-01,276,75,35,High demand after advertisement,20700,9660,0.5333333333333333,High,1,Winter
+S038,West,2024-03-01,427,75,35,Low stock due to delivery delay,32025,14945,0.5333333333333333,High,3,Spring
+S024,South,2024-11-01,427,70,30,Low stock due to delivery delay,29890,12810,0.5714285714285714,High,11,Autumn
+S005,South,2023-02-01,432,70,35,Great promotion with local event,30240,15120,0.5,High,2,Winter
+S034,West,2024-02-01,376,65,30,High demand after advertisement,24440,11280,0.5384615384615384,High,2,Winter
+S006,West,2024-09-01,485,70,45,Low stock due to delivery delay,33950,21825,0.35714285714285715,High,9,Autumn
+S022,West,2023-08-01,435,70,45,Weather affected sales negatively,30450,19575,0.35714285714285715,High,8,Summer
+S011,North,2023-08-01,444,60,30,Low stock due to delivery delay,26640,13320,0.5,High,8,Summer
+S048,East,2024-07-01,484,60,40,New flavor launch drove interest,29040,19360,0.3333333333333333,High,7,Summer
+S016,North,2023-07-01,306,70,45,New flavor launch drove interest,21420,13770,0.35714285714285715,High,7,Summer
+S033,East,2024-07-01,356,65,35,Low stock due to delivery delay,23140,12460,0.46153846153846156,High,7,Summer
+S009,North,2023-06-01,406,60,30,High demand after advertisement,24360,12180,0.5,High,6,Summer
+S006,East,2023-06-01,461,70,35,High demand after advertisement,32270,16135,0.5,High,6,Summer
+S016,North,2023-03-01,442,70,35,Competition price drop nearby,30940,15470,0.5,High,3,Spring
+S029,West,2023-07-01,316,75,40,New flavor launch drove interest,23700,12640,0.4666666666666667,High,7,Summer
+S003,South,2024-07-01,340,65,35,Weather affected sales negatively,22100,11900,0.46153846153846156,High,7,Summer
+S020,North,2023-08-01,304,75,40,High demand after advertisement,22800,12160,0.4666666666666667,High,8,Summer
+S036,East,2023-10-01,364,65,45,Great promotion with local event,23660,16380,0.3076923076923077,High,10,Autumn
+S019,West,2024-08-01,343,60,30,New flavor launch drove interest,20580,10290,0.5,High,8,Summer
+S026,North,2024-03-01,452,65,35,Weather affected sales negatively,29380,15820,0.46153846153846156,High,3,Spring
+S003,North,2024-03-01,373,70,30,Weather affected sales negatively,26110,11190,0.5714285714285714,High,3,Spring
+S019,West,2023-01-01,364,70,35,High demand after advertisement,25480,12740,0.5,High,1,Winter
+S020,North,2024-08-01,361,65,30,Weather affected sales negatively,23465,10830,0.5384615384615384,High,8,Summer
+S032,South,2023-07-01,383,65,35,High demand after advertisement,24895,13405,0.46153846153846156,High,7,Summer
+S007,North,2023-04-01,501,65,35,Low stock due to delivery delay,32565,17535,0.46153846153846156,High,4,Spring
+S041,South,2023-06-01,463,75,35,New flavor launch drove interest,34725,16205,0.5333333333333333,High,6,Summer
+S033,South,2023-01-01,459,65,35,Competition price drop nearby,29835,16065,0.46153846153846156,High,1,Winter
+S040,West,2023-05-01,477,60,35,Low stock due to delivery delay,28620,16695,0.4166666666666667,High,5,Spring
+S039,North,2024-11-01,453,75,35,New flavor launch drove interest,33975,15855,0.5333333333333333,High,11,Autumn
+S018,West,2023-01-01,357,75,35,High demand after advertisement,26775,12495,0.5333333333333333,High,1,Winter
+S040,North,2023-04-01,345,65,35,New flavor launch drove interest,22425,12075,0.46153846153846156,High,4,Spring
+S001,North,2024-10-01,360,60,35,High demand after advertisement,21600,12600,0.4166666666666667,High,10,Autumn
+S011,East,2023-02-01,289,75,30,Low stock due to delivery delay,21675,8670,0.6,High,2,Winter
+S028,North,2023-10-01,326,70,40,Great promotion with local event,22820,13040,0.42857142857142855,High,10,Autumn
+S025,West,2023-05-01,397,75,35,Great promotion with local event,29775,13895,0.5333333333333333,High,5,Spring
+S050,South,2023-10-01,477,65,40,New flavor launch drove interest,31005,19080,0.38461538461538464,High,10,Autumn
+S023,North,2023-01-01,484,60,35,Great promotion with local event,29040,16940,0.4166666666666667,High,1,Winter
+S031,East,2024-10-01,415,65,35,High demand after advertisement,26975,14525,0.46153846153846156,High,10,Autumn
+S030,West,2023-06-01,466,70,30,Weather affected sales negatively,32620,13980,0.5714285714285714,High,6,Summer
+S042,North,2024-01-01,380,70,45,High demand after advertisement,26600,17100,0.35714285714285715,High,1,Winter
+S035,West,2024-03-01,465,70,45,Weather affected sales negatively,32550,20925,0.35714285714285715,High,3,Spring
+S007,East,2023-04-01,361,65,30,Low stock due to delivery delay,23465,10830,0.5384615384615384,High,4,Spring
+S016,East,2024-01-01,332,75,40,Competition price drop nearby,24900,13280,0.4666666666666667,High,1,Winter
+S026,West,2024-12-01,412,65,45,Weather affected sales negatively,26780,18540,0.3076923076923077,High,12,Winter
+S048,North,2024-08-01,452,60,30,Great promotion with local event,27120,13560,0.5,High,8,Summer
+S049,South,2024-12-01,329,75,30,High demand after advertisement,24675,9870,0.6,High,12,Winter
+S002,East,2024-03-01,363,70,45,Low stock due to delivery delay,25410,16335,0.35714285714285715,High,3,Spring
+S001,North,2023-08-01,377,65,40,Great promotion with local event,24505,15080,0.38461538461538464,High,8,Summer
+S048,North,2023-05-01,454,70,30,Low stock due to delivery delay,31780,13620,0.5714285714285714,High,5,Spring
+S012,South,2024-03-01,306,70,35,Competition price drop nearby,21420,10710,0.5,High,3,Spring
+S005,East,2023-04-01,355,60,40,High demand after advertisement,21300,14200,0.3333333333333333,High,4,Spring
+S037,East,2023-12-01,347,75,40,New flavor launch drove interest,26025,13880,0.4666666666666667,High,12,Winter
+S032,North,2024-01-01,315,60,45,High demand after advertisement,18900,14175,0.25,Moderate,1,Winter
+S009,North,2023-02-01,433,60,45,Competition price drop nearby,25980,19485,0.25,Moderate,2,Winter
+S041,South,2024-07-01,490,60,35,High demand after advertisement,29400,17150,0.4166666666666667,High,7,Summer
+S035,South,2024-07-01,419,70,30,New flavor launch drove interest,29330,12570,0.5714285714285714,High,7,Summer
+S019,East,2023-04-01,325,60,45,Weather affected sales negatively,19500,14625,0.25,Moderate,4,Spring
+S048,West,2023-04-01,481,60,45,Low stock due to delivery delay,28860,21645,0.25,Moderate,4,Spring
+S016,East,2023-11-01,376,75,40,New flavor launch drove interest,28200,15040,0.4666666666666667,High,11,Autumn
+S003,North,2023-05-01,295,75,45,Great promotion with local event,22125,13275,0.4,High,5,Spring
+S020,East,2024-08-01,270,60,45,Competition price drop nearby,16200,12150,0.25,Moderate,8,Summer
+S024,West,2023-11-01,435,75,45,Weather affected sales negatively,32625,19575,0.4,High,11,Autumn
+S033,South,2023-10-01,399,75,45,Great promotion with local event,29925,17955,0.4,High,10,Autumn
+S024,West,2023-08-01,474,60,40,Great promotion with local event,28440,18960,0.3333333333333333,High,8,Summer
+S011,West,2023-06-01,357,70,35,Competition price drop nearby,24990,12495,0.5,High,6,Summer
+S049,West,2023-06-01,388,60,35,Weather affected sales negatively,23280,13580,0.4166666666666667,High,6,Summer
+S008,South,2023-08-01,491,75,30,Great promotion with local event,36825,14730,0.6,High,8,Summer
+S036,West,2024-11-01,464,70,45,Great promotion with local event,32480,20880,0.35714285714285715,High,11,Autumn
+S038,West,2024-03-01,372,65,40,Weather affected sales negatively,24180,14880,0.38461538461538464,High,3,Spring
+S040,West,2024-02-01,465,70,30,High demand after advertisement,32550,13950,0.5714285714285714,High,2,Winter
+S020,North,2023-11-01,377,75,30,Great promotion with local event,28275,11310,0.6,High,11,Autumn
+S035,West,2023-12-01,314,70,35,Low stock due to delivery delay,21980,10990,0.5,High,12,Winter
+S048,South,2024-01-01,379,60,40,Weather affected sales negatively,22740,15160,0.3333333333333333,High,1,Winter
+S025,West,2023-08-01,417,65,40,Great promotion with local event,27105,16680,0.38461538461538464,High,8,Summer
+S035,West,2024-06-01,460,65,40,Competition price drop nearby,29900,18400,0.38461538461538464,High,6,Summer
+S025,South,2023-01-01,307,65,35,New flavor launch drove interest,19955,10745,0.46153846153846156,High,1,Winter
+S029,West,2024-03-01,453,75,35,Low stock due to delivery delay,33975,15855,0.5333333333333333,High,3,Spring
+S018,South,2023-08-01,416,75,35,New flavor launch drove interest,31200,14560,0.5333333333333333,High,8,Summer
+S046,West,2023-11-01,337,65,35,New flavor launch drove interest,21905,11795,0.46153846153846156,High,11,Autumn
+S018,South,2023-12-01,326,70,35,Great promotion with local event,22820,11410,0.5,High,12,Winter
+S002,West,2023-12-01,257,65,45,Low stock due to delivery delay,16705,11565,0.3076923076923077,High,12,Winter
+S035,West,2023-04-01,313,70,45,Low stock due to delivery delay,21910,14085,0.35714285714285715,High,4,Spring
+S016,North,2024-04-01,407,70,40,High demand after advertisement,28490,16280,0.42857142857142855,High,4,Spring
+S041,North,2023-04-01,426,75,30,New flavor launch drove interest,31950,12780,0.6,High,4,Spring
+S036,West,2023-05-01,400,70,40,Low stock due to delivery delay,28000,16000,0.42857142857142855,High,5,Spring
+S033,West,2024-12-01,497,65,30,High demand after advertisement,32305,14910,0.5384615384615384,High,12,Winter
+S004,East,2023-05-01,514,75,35,Weather affected sales negatively,38550,17990,0.5333333333333333,High,5,Spring
+S033,South,2023-08-01,368,60,30,High demand after advertisement,22080,11040,0.5,High,8,Summer
+S014,East,2023-10-01,402,60,40,Competition price drop nearby,24120,16080,0.3333333333333333,High,10,Autumn
+S021,North,2024-05-01,420,75,40,Great promotion with local event,31500,16800,0.4666666666666667,High,5,Spring
+S048,North,2023-09-01,483,65,30,Weather affected sales negatively,31395,14490,0.5384615384615384,High,9,Autumn
+S020,North,2024-10-01,411,60,45,Weather affected sales negatively,24660,18495,0.25,Moderate,10,Autumn
+S008,North,2024-07-01,315,60,35,Competition price drop nearby,18900,11025,0.4166666666666667,High,7,Summer
+S007,West,2024-02-01,482,70,35,High demand after advertisement,33740,16870,0.5,High,2,Winter
+S003,North,2023-08-01,361,70,40,Great promotion with local event,25270,14440,0.42857142857142855,High,8,Summer
+S017,West,2023-09-01,385,65,45,High demand after advertisement,25025,17325,0.3076923076923077,High,9,Autumn
+S033,West,2024-10-01,481,75,30,Low stock due to delivery delay,36075,14430,0.6,High,10,Autumn
+S048,North,2023-11-01,421,65,35,High demand after advertisement,27365,14735,0.46153846153846156,High,11,Autumn
+S012,North,2024-11-01,483,75,45,Weather affected sales negatively,36225,21735,0.4,High,11,Autumn
+S022,South,2023-01-01,341,60,35,Great promotion with local event,20460,11935,0.4166666666666667,High,1,Winter
+S022,East,2024-02-01,335,70,45,High demand after advertisement,23450,15075,0.35714285714285715,High,2,Winter
+S046,North,2023-05-01,409,65,45,Great promotion with local event,26585,18405,0.3076923076923077,High,5,Spring
+S030,South,2024-09-01,496,65,40,Great promotion with local event,32240,19840,0.38461538461538464,High,9,Autumn
+S038,South,2024-02-01,441,75,35,Low stock due to delivery delay,33075,15435,0.5333333333333333,High,2,Winter
+S038,East,2023-04-01,322,75,30,Low stock due to delivery delay,24150,9660,0.6,High,4,Spring
+S045,West,2024-10-01,462,65,40,Weather affected sales negatively,30030,18480,0.38461538461538464,High,10,Autumn
+S008,North,2024-11-01,387,75,40,Competition price drop nearby,29025,15480,0.4666666666666667,High,11,Autumn
+S027,East,2023-01-01,375,65,30,Great promotion with local event,24375,11250,0.5384615384615384,High,1,Winter
+S027,North,2024-10-01,379,65,40,Competition price drop nearby,24635,15160,0.38461538461538464,High,10,Autumn
+S034,South,2024-11-01,348,65,45,Weather affected sales negatively,22620,15660,0.3076923076923077,High,11,Autumn
+S021,South,2024-07-01,402,60,45,Great promotion with local event,24120,18090,0.25,Moderate,7,Summer
+S030,West,2023-08-01,466,75,35,Great promotion with local event,34950,16310,0.5333333333333333,High,8,Summer
+S033,South,2024-03-01,492,70,35,New flavor launch drove interest,34440,17220,0.5,High,3,Spring
+S028,South,2024-09-01,338,70,30,Competition price drop nearby,23660,10140,0.5714285714285714,High,9,Autumn
+S047,East,2024-03-01,402,75,35,High demand after advertisement,30150,14070,0.5333333333333333,High,3,Spring
+S033,North,2023-09-01,399,65,45,Low stock due to delivery delay,25935,17955,0.3076923076923077,High,9,Autumn
+S005,North,2024-09-01,372,70,30,High demand after advertisement,26040,11160,0.5714285714285714,High,9,Autumn
+S048,East,2023-09-01,439,70,30,Competition price drop nearby,30730,13170,0.5714285714285714,High,9,Autumn
+S019,West,2023-10-01,304,75,35,Low stock due to delivery delay,22800,10640,0.5333333333333333,High,10,Autumn
+S004,North,2024-08-01,401,70,45,High demand after advertisement,28070,18045,0.35714285714285715,High,8,Summer
+S035,South,2024-09-01,338,65,30,New flavor launch drove interest,21970,10140,0.5384615384615384,High,9,Autumn
+S049,North,2023-09-01,392,75,45,Low stock due to delivery delay,29400,17640,0.4,High,9,Autumn
+S017,South,2023-03-01,315,65,45,Great promotion with local event,20475,14175,0.3076923076923077,High,3,Spring
+S044,West,2024-08-01,314,70,45,High demand after advertisement,21980,14130,0.35714285714285715,High,8,Summer
+S028,East,2023-11-01,360,70,35,Low stock due to delivery delay,25200,12600,0.5,High,11,Autumn
+S030,North,2023-06-01,299,65,40,New flavor launch drove interest,19435,11960,0.38461538461538464,High,6,Summer
+S029,East,2023-02-01,362,60,40,Low stock due to delivery delay,21720,14480,0.3333333333333333,High,2,Winter
+S046,North,2023-07-01,352,70,30,Low stock due to delivery delay,24640,10560,0.5714285714285714,High,7,Summer
+S006,South,2024-06-01,464,60,45,New flavor launch drove interest,27840,20880,0.25,Moderate,6,Summer
+S035,East,2023-02-01,498,70,35,High demand after advertisement,34860,17430,0.5,High,2,Winter
+S041,North,2024-05-01,350,60,45,Weather affected sales negatively,21000,15750,0.25,Moderate,5,Spring
+S037,South,2023-11-01,325,60,45,High demand after advertisement,19500,14625,0.25,Moderate,11,Autumn
+S024,East,2023-12-01,438,60,35,Competition price drop nearby,26280,15330,0.4166666666666667,High,12,Winter
+S029,East,2024-07-01,499,65,40,New flavor launch drove interest,32435,19960,0.38461538461538464,High,7,Summer
+S049,North,2024-10-01,317,60,45,High demand after advertisement,19020,14265,0.25,Moderate,10,Autumn
+S046,North,2024-12-01,413,60,45,Low stock due to delivery delay,24780,18585,0.25,Moderate,12,Winter
+S031,North,2023-07-01,417,60,40,New flavor launch drove interest,25020,16680,0.3333333333333333,High,7,Summer
+S035,South,2024-08-01,377,70,35,Great promotion with local event,26390,13195,0.5,High,8,Summer
+S033,North,2023-06-01,382,60,30,High demand after advertisement,22920,11460,0.5,High,6,Summer
+S021,East,2024-09-01,356,70,40,New flavor launch drove interest,24920,14240,0.42857142857142855,High,9,Autumn
+S032,East,2024-12-01,312,60,30,High demand after advertisement,18720,9360,0.5,High,12,Winter
+S023,North,2023-01-01,292,60,30,New flavor launch drove interest,17520,8760,0.5,High,1,Winter
+S033,North,2024-05-01,459,65,40,Low stock due to delivery delay,29835,18360,0.38461538461538464,High,5,Spring
+S003,West,2023-11-01,415,70,45,Great promotion with local event,29050,18675,0.35714285714285715,High,11,Autumn
+S018,East,2024-10-01,299,60,30,Great promotion with local event,17940,8970,0.5,High,10,Autumn
+S025,South,2024-06-01,383,70,30,Competition price drop nearby,26810,11490,0.5714285714285714,High,6,Summer
+S042,West,2024-09-01,359,70,35,New flavor launch drove interest,25130,12565,0.5,High,9,Autumn
+S031,North,2024-05-01,470,75,45,High demand after advertisement,35250,21150,0.4,High,5,Spring
+S003,North,2023-07-01,477,65,30,Great promotion with local event,31005,14310,0.5384615384615384,High,7,Summer
+S040,East,2024-05-01,414,65,35,Great promotion with local event,26910,14490,0.46153846153846156,High,5,Spring
+S046,North,2024-08-01,295,65,45,Weather affected sales negatively,19175,13275,0.3076923076923077,High,8,Summer
+S024,South,2023-09-01,494,75,40,Weather affected sales negatively,37050,19760,0.4666666666666667,High,9,Autumn
+S050,East,2024-05-01,467,75,40,Great promotion with local event,35025,18680,0.4666666666666667,High,5,Spring
+S032,North,2024-08-01,360,65,35,New flavor launch drove interest,23400,12600,0.46153846153846156,High,8,Summer
+S047,East,2024-10-01,393,75,40,Competition price drop nearby,29475,15720,0.4666666666666667,High,10,Autumn
+S022,North,2024-10-01,419,75,30,Great promotion with local event,31425,12570,0.6,High,10,Autumn
+S023,North,2023-08-01,473,75,45,Low stock due to delivery delay,35475,21285,0.4,High,8,Summer
+S002,North,2024-05-01,339,65,30,High demand after advertisement,22035,10170,0.5384615384615384,High,5,Spring
+S027,South,2023-07-01,445,65,30,Competition price drop nearby,28925,13350,0.5384615384615384,High,7,Summer
+S042,South,2023-01-01,387,65,40,Low stock due to delivery delay,25155,15480,0.38461538461538464,High,1,Winter
+S002,East,2024-01-01,509,75,30,Competition price drop nearby,38175,15270,0.6,High,1,Winter
+S026,North,2024-11-01,362,65,40,Low stock due to delivery delay,23530,14480,0.38461538461538464,High,11,Autumn
+S017,North,2024-07-01,481,75,45,High demand after advertisement,36075,21645,0.4,High,7,Summer
+S040,South,2024-12-01,463,60,45,High demand after advertisement,27780,20835,0.25,Moderate,12,Winter
+S033,North,2024-07-01,498,75,30,Weather affected sales negatively,37350,14940,0.6,High,7,Summer
+S009,South,2024-05-01,504,70,35,New flavor launch drove interest,35280,17640,0.5,High,5,Spring
+S043,North,2024-01-01,397,65,40,Low stock due to delivery delay,25805,15880,0.38461538461538464,High,1,Winter
+S048,East,2024-04-01,401,65,40,Weather affected sales negatively,26065,16040,0.38461538461538464,High,4,Spring
+S039,North,2023-08-01,460,70,30,Low stock due to delivery delay,32200,13800,0.5714285714285714,High,8,Summer
+S029,North,2024-07-01,475,75,40,Weather affected sales negatively,35625,19000,0.4666666666666667,High,7,Summer
+S042,West,2024-06-01,324,60,40,High demand after advertisement,19440,12960,0.3333333333333333,High,6,Summer
+S026,South,2023-01-01,438,70,35,Competition price drop nearby,30660,15330,0.5,High,1,Winter
+S035,North,2024-02-01,444,70,35,Weather affected sales negatively,31080,15540,0.5,High,2,Winter
+S050,North,2024-07-01,463,75,30,Low stock due to delivery delay,34725,13890,0.6,High,7,Summer
+S025,West,2024-03-01,393,65,35,Low stock due to delivery delay,25545,13755,0.46153846153846156,High,3,Spring
+S024,West,2024-06-01,450,75,30,New flavor launch drove interest,33750,13500,0.6,High,6,Summer
+S013,South,2023-02-01,444,70,45,High demand after advertisement,31080,19980,0.35714285714285715,High,2,Winter
+S007,West,2024-10-01,477,70,30,Low stock due to delivery delay,33390,14310,0.5714285714285714,High,10,Autumn
+S036,East,2024-05-01,390,65,45,Great promotion with local event,25350,17550,0.3076923076923077,High,5,Spring
+S045,West,2024-06-01,392,65,30,Competition price drop nearby,25480,11760,0.5384615384615384,High,6,Summer
+S020,East,2023-06-01,348,65,40,Weather affected sales negatively,22620,13920,0.38461538461538464,High,6,Summer
+S001,South,2024-07-01,438,75,35,New flavor launch drove interest,32850,15330,0.5333333333333333,High,7,Summer
+S008,South,2023-04-01,445,65,45,Competition price drop nearby,28925,20025,0.3076923076923077,High,4,Spring
+S046,South,2023-01-01,346,70,30,High demand after advertisement,24220,10380,0.5714285714285714,High,1,Winter
+S016,South,2023-08-01,459,70,35,New flavor launch drove interest,32130,16065,0.5,High,8,Summer
+S014,South,2024-11-01,304,60,30,Weather affected sales negatively,18240,9120,0.5,High,11,Autumn
+S012,East,2023-07-01,504,75,35,Weather affected sales negatively,37800,17640,0.5333333333333333,High,7,Summer
+S023,East,2023-03-01,341,60,35,Great promotion with local event,20460,11935,0.4166666666666667,High,3,Spring
+S015,South,2023-10-01,447,70,30,High demand after advertisement,31290,13410,0.5714285714285714,High,10,Autumn
+S028,West,2023-10-01,484,60,45,New flavor launch drove interest,29040,21780,0.25,Moderate,10,Autumn
+S034,North,2024-07-01,340,70,45,New flavor launch drove interest,23800,15300,0.35714285714285715,High,7,Summer
+S002,South,2024-02-01,371,60,40,Low stock due to delivery delay,22260,14840,0.3333333333333333,High,2,Winter
+S032,West,2023-02-01,333,65,35,Great promotion with local event,21645,11655,0.46153846153846156,High,2,Winter
+S023,North,2023-01-01,435,60,40,Great promotion with local event,26100,17400,0.3333333333333333,High,1,Winter
+S022,South,2024-11-01,360,65,40,New flavor launch drove interest,23400,14400,0.38461538461538464,High,11,Autumn
+S025,South,2024-11-01,423,65,30,New flavor launch drove interest,27495,12690,0.5384615384615384,High,11,Autumn
+S022,East,2024-06-01,436,75,30,Competition price drop nearby,32700,13080,0.6,High,6,Summer
+S022,North,2023-07-01,342,65,30,Competition price drop nearby,22230,10260,0.5384615384615384,High,7,Summer
+S049,North,2023-08-01,334,65,35,Competition price drop nearby,21710,11690,0.46153846153846156,High,8,Summer
+S042,West,2023-01-01,306,60,30,Great promotion with local event,18360,9180,0.5,High,1,Winter
+S006,East,2024-11-01,386,70,30,Low stock due to delivery delay,27020,11580,0.5714285714285714,High,11,Autumn
+S015,East,2023-03-01,506,75,35,Weather affected sales negatively,37950,17710,0.5333333333333333,High,3,Spring
+S043,East,2024-12-01,442,65,35,Competition price drop nearby,28730,15470,0.46153846153846156,High,12,Winter
+S037,East,2024-11-01,416,75,45,Low stock due to delivery delay,31200,18720,0.4,High,11,Autumn
+S033,North,2023-08-01,265,60,30,High demand after advertisement,15900,7950,0.5,High,8,Summer
+S008,North,2024-10-01,407,65,30,Competition price drop nearby,26455,12210,0.5384615384615384,High,10,Autumn
+S044,South,2024-03-01,481,60,30,Weather affected sales negatively,28860,14430,0.5,High,3,Spring
+S044,South,2023-05-01,427,75,45,High demand after advertisement,32025,19215,0.4,High,5,Spring
+S005,East,2023-03-01,434,60,30,High demand after advertisement,26040,13020,0.5,High,3,Spring
+S039,East,2024-07-01,365,75,45,Weather affected sales negatively,27375,16425,0.4,High,7,Summer
+S004,East,2023-01-01,344,60,40,Competition price drop nearby,20640,13760,0.3333333333333333,High,1,Winter
+S006,South,2024-03-01,308,75,45,Great promotion with local event,23100,13860,0.4,High,3,Spring
+S045,West,2023-08-01,387,70,40,Weather affected sales negatively,27090,15480,0.42857142857142855,High,8,Summer
+S032,West,2023-02-01,444,60,30,Weather affected sales negatively,26640,13320,0.5,High,2,Winter
+S030,South,2023-03-01,331,60,40,Weather affected sales negatively,19860,13240,0.3333333333333333,High,3,Spring
+S047,South,2024-12-01,465,70,45,High demand after advertisement,32550,20925,0.35714285714285715,High,12,Winter
+S035,South,2024-02-01,346,70,35,Low stock due to delivery delay,24220,12110,0.5,High,2,Winter
+S040,South,2024-12-01,345,60,40,Great promotion with local event,20700,13800,0.3333333333333333,High,12,Winter
+S016,South,2024-02-01,332,70,40,Competition price drop nearby,23240,13280,0.42857142857142855,High,2,Winter
+S013,South,2023-11-01,390,65,30,Competition price drop nearby,25350,11700,0.5384615384615384,High,11,Autumn
+S050,East,2024-04-01,348,75,45,Low stock due to delivery delay,26100,15660,0.4,High,4,Spring
+S042,East,2023-04-01,371,75,40,Weather affected sales negatively,27825,14840,0.4666666666666667,High,4,Spring
+S030,East,2024-08-01,408,75,40,Great promotion with local event,30600,16320,0.4666666666666667,High,8,Summer
+S019,East,2023-05-01,450,65,40,Competition price drop nearby,29250,18000,0.38461538461538464,High,5,Spring
+S017,South,2024-10-01,300,70,40,New flavor launch drove interest,21000,12000,0.42857142857142855,High,10,Autumn
+S019,West,2024-09-01,463,70,35,Competition price drop nearby,32410,16205,0.5,High,9,Autumn
+S028,North,2024-02-01,334,60,45,Weather affected sales negatively,20040,15030,0.25,Moderate,2,Winter
+S026,South,2024-11-01,341,70,30,New flavor launch drove interest,23870,10230,0.5714285714285714,High,11,Autumn
+S037,North,2024-04-01,325,60,30,Low stock due to delivery delay,19500,9750,0.5,High,4,Spring
+S026,West,2024-06-01,494,65,35,Great promotion with local event,32110,17290,0.46153846153846156,High,6,Summer
+S023,East,2023-07-01,449,75,45,Low stock due to delivery delay,33675,20205,0.4,High,7,Summer
+S009,West,2023-10-01,409,75,40,Low stock due to delivery delay,30675,16360,0.4666666666666667,High,10,Autumn
+S012,South,2023-07-01,450,75,35,Great promotion with local event,33750,15750,0.5333333333333333,High,7,Summer
+S001,East,2023-01-01,425,70,45,Great promotion with local event,29750,19125,0.35714285714285715,High,1,Winter
+S001,South,2024-11-01,460,60,40,Competition price drop nearby,27600,18400,0.3333333333333333,High,11,Autumn
+S047,East,2024-09-01,415,60,35,Competition price drop nearby,24900,14525,0.4166666666666667,High,9,Autumn
+S034,North,2024-07-01,338,65,45,Great promotion with local event,21970,15210,0.3076923076923077,High,7,Summer
+S032,North,2024-04-01,430,70,30,New flavor launch drove interest,30100,12900,0.5714285714285714,High,4,Spring
+S048,North,2024-07-01,448,65,30,High demand after advertisement,29120,13440,0.5384615384615384,High,7,Summer
+S025,West,2023-04-01,331,60,45,Competition price drop nearby,19860,14895,0.25,Moderate,4,Spring
+S040,South,2024-06-01,479,60,30,High demand after advertisement,28740,14370,0.5,High,6,Summer
+S045,West,2023-02-01,441,75,45,New flavor launch drove interest,33075,19845,0.4,High,2,Winter
+S001,North,2023-01-01,393,70,40,Great promotion with local event,27510,15720,0.42857142857142855,High,1,Winter
+S016,South,2024-03-01,318,60,45,New flavor launch drove interest,19080,14310,0.25,Moderate,3,Spring
+S039,North,2023-05-01,477,75,40,Competition price drop nearby,35775,19080,0.4666666666666667,High,5,Spring
+S005,West,2024-08-01,492,70,35,Low stock due to delivery delay,34440,17220,0.5,High,8,Summer
+S022,West,2023-11-01,460,65,45,Great promotion with local event,29900,20700,0.3076923076923077,High,11,Autumn
+S029,West,2023-10-01,447,70,35,Weather affected sales negatively,31290,15645,0.5,High,10,Autumn
+S003,North,2023-02-01,363,70,30,High demand after advertisement,25410,10890,0.5714285714285714,High,2,Winter
+S012,South,2023-03-01,361,60,40,New flavor launch drove interest,21660,14440,0.3333333333333333,High,3,Spring
+S026,South,2024-11-01,363,60,45,Great promotion with local event,21780,16335,0.25,Moderate,11,Autumn
+S016,North,2024-11-01,343,70,35,New flavor launch drove interest,24010,12005,0.5,High,11,Autumn
+S037,South,2023-12-01,370,60,40,Great promotion with local event,22200,14800,0.3333333333333333,High,12,Winter
+S022,North,2024-08-01,376,60,40,Competition price drop nearby,22560,15040,0.3333333333333333,High,8,Summer
+S029,South,2023-05-01,345,60,30,Competition price drop nearby,20700,10350,0.5,High,5,Spring
+S014,East,2023-05-01,480,75,30,Competition price drop nearby,36000,14400,0.6,High,5,Spring
+S028,East,2023-06-01,354,75,40,New flavor launch drove interest,26550,14160,0.4666666666666667,High,6,Summer
+S005,West,2023-09-01,425,70,40,Weather affected sales negatively,29750,17000,0.42857142857142855,High,9,Autumn
+S047,East,2023-02-01,365,60,45,Competition price drop nearby,21900,16425,0.25,Moderate,2,Winter
+S049,East,2024-09-01,440,75,40,Great promotion with local event,33000,17600,0.4666666666666667,High,9,Autumn
+S030,East,2023-12-01,443,70,45,Competition price drop nearby,31010,19935,0.35714285714285715,High,12,Winter
+S046,North,2023-03-01,432,60,40,Low stock due to delivery delay,25920,17280,0.3333333333333333,High,3,Spring
+S005,East,2024-08-01,480,65,30,Competition price drop nearby,31200,14400,0.5384615384615384,High,8,Summer
+S012,East,2024-10-01,317,60,45,New flavor launch drove interest,19020,14265,0.25,Moderate,10,Autumn
+S016,West,2023-12-01,507,60,35,Weather affected sales negatively,30420,17745,0.4166666666666667,High,12,Winter
+S026,East,2024-12-01,441,75,30,Low stock due to delivery delay,33075,13230,0.6,High,12,Winter
+S026,East,2024-05-01,406,70,45,New flavor launch drove interest,28420,18270,0.35714285714285715,High,5,Spring
